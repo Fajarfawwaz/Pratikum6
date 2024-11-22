@@ -173,16 +173,20 @@ while True:
 
 ## Contoh output
 Berikut adalah contoh tampilan tabel data:
+![WhatsApp Image 2024-11-22 at 04 38 47_9a553a1f](https://github.com/user-attachments/assets/e26993a4-a0b1-467c-8fc7-f46ba3adf432)
 
 
 Daftar Nilai
 ======================================================================
 | NO | NIM      | NAMA       | TUGAS   | UTS     | UAS     | AKHIR   |
 ======================================================================
-| 1  | 1234     | ZAKI       | 80.00    | 75.00    | 90.00    | 81.75    |
-| 2  | 5678     | TONO       | 80.00    | 75.00    | 80.00    | 78.25    |
-| 3  | 9101     | BUDI       | 90.00    | 75.00    | 90.00    | 84.75    |
+| 1  | 312410357     | Fajar Fawwaz       | 97.00    | 85.00    | 95.00    | 81.75    |
+| 2  | 8203893     | galih       | 80.00    | 90.00    | 89.00    | 99.00    |
+| 3  | 7928322     | rizki       | 90.00    | 89.00    | 90.00    | 90.75    |
 ======================================================================
 
 ## screenshout output VSC
 <img width="415" alt="image" src="https://github.com/user-attachments/assets/87fdfe55-bcaa-4147-ac30-08aae8f864d4">
+
+# BERIKUT DI BAWAH INI ADALAH FLOWCHARTNYA :
+![WhatsApp Image 2024-11-18 at 22 52 17_e3847fbc](https://github.com/user-attachments/assets/567954c6-5e71-435b-b860-0ef84c041355)
